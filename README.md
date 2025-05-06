@@ -38,7 +38,7 @@ yolo_gui_app/
 
 Run the app with:
 
-python yolo_gui_app.py
+python tinker.py
 
 💻 Basic Flow
 
